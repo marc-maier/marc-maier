@@ -8,7 +8,7 @@
 
 - **Email:** [maiermarc75@gmail.com](mailto:maiermarc75@gmail.com)
 - **Telegram:** [@maiermarc](https://t.me/maiermarc)
-- **Website:** [maiermarc.com](https://maiermarc.com)
+- **Website:** [maiermarc.com](https://www.maiermarc.com)
 
 ## Summary
 
