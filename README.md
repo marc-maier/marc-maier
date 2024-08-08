@@ -1,8 +1,8 @@
-# Marc Maier - Front-End Engineer
+# Marc Maier - Full-Stack Engineer
 
 ## About Me
 
-👋 Hi, I'm Marc Maier, a seasoned Front-End Engineer based in Skanderborg, Denmark. With over 12 years of professional experience, I specialize in building and optimizing web applications using modern JavaScript frameworks and libraries. I have a strong eye for design and a deep understanding of UI/UX principles.
+👋 Hi, I'm Marc Maier, a seasoned Full-Stack Engineer based in Skanderborg, Denmark. With over 12 years of professional experience, I specialize in building and optimizing web applications using modern JavaScript frameworks and libraries. Additionally, I have substantial experience in backend development, particularly in C# and .NET Core for high-performance systems.
 
 ## Contact
 
@@ -16,6 +16,7 @@
 - 💻 Deep technical understanding of JavaScript, TypeScript, Node.js, Next.js, React, and Vue
 - 🖌️ Strong design sense with a solid understanding of UI/UX
 - 🛠️ Best practices across development, testing, and security
+- 🔧 Extensive backend experience in C#, .NET Core, RabbitMQ, and PostgreSQL
 
 ## Experience
 
@@ -35,6 +36,13 @@
 - Managed version control with Git in a professional environment
 - Mastered core web and browser concepts
 
+### Crypto Exchange Project | Backend Developer
+*January 2018 – December 2019*
+
+- Built a real-time transaction processing system for a crypto exchange
+- Developed the backend for deposits, withdrawals, and transfers using C#, .NET Core, RabbitMQ, and PostgreSQL
+- Implemented RabbitMQ for queuing to handle high transaction volumes
+
 ## Education
 
 **University of Copenhagen**  
@@ -44,7 +52,7 @@
 ## Skills
 
 - **Languages & Frameworks:** JavaScript, TypeScript, React, Vue, Angular, React Native, HTML, CSS, Tailwind CSS
-- **Back-End & Others:** Node.js, Python, PHP, Express, Django, Laravel
+- **Back-End & Others:** Node.js, Python, PHP, Express, Django, Laravel, C#, .NET Core, RabbitMQ, PostgreSQL
 
 ## References
 
